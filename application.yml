@@ -6,5 +6,5 @@ logging:
           samples: INFO
 
 fortune:
-  fallbackFortune: Your future is in Rome!
+  fallbackFortune: Your future is in cloudy!
 
